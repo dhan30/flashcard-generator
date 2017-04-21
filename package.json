@@ -1,0 +1,29 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flashcards",
+  "main": "flashcard.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhan30/flashcard-generator.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "david",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhan30/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/dhan30/flashcard-generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.0.6"
+  }
+}
